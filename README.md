@@ -1,2 +1,2 @@
 # apna-college-demo
-thios is my first Reposetry
+this is my first Reposetry
